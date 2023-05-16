@@ -1,12 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="logo.png" width="15%">
+  <h1 align="center">
+    Duburi
+  </h1>
+<p align="center">First under-water vehicle of Bangladesh.</p>
+</p>
 
-<!--
+<div align="center">
 
-**Here are some ideas to get you started:**
+<a href=" https://bracu-duburi.com/">![Duburi](https://img.shields.io/badge/Duburi-Live-9cf?style=for-the-badge)</a>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+</div>
+
+<img src="duburi.jpg">
+
+<video  src="duburi.mp4" autoplay>
