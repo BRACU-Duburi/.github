@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="15%">
+  <img src="./logo.png" width="15%">
   <h1 align="center">
     Duburi
   </h1>
@@ -12,6 +12,6 @@
 
 </div>
 
-<img src="duburi.jpg">
+<img src="./duburi.jpg">
 
-<video  src="duburi.mp4" autoplay>
+<!-- <video  src="duburi.mp4" autoplay> -->
