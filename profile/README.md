@@ -12,6 +12,6 @@
 
 </div>
 
-<img src="https://github.com/BRACU-Duburi/.github/blob/main/profile/duburi.jpg">
+<img src="https://github.com/BRACU-Duburi/.github/blob/main/profile/duburi_v3.jpg">
 
 <!-- <video  src="duburi.mp4" autoplay> -->
